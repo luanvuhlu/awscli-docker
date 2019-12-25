@@ -46,13 +46,6 @@ Connect direct from docker container:
 docker exec -it awscli bash
 ```
 
-Or SSH
-
-```
-ssh -p <container_port> user@localhost
-```
-
-password default is *newpass*  
 Config AWS credentials
 
 ```
