@@ -1,5 +1,5 @@
 # awscli-docker
-Containerized AWS CLI on Centos7. Support SSH remote
+Containerized AWS CLI on Centos7
 
 ## Build
 
